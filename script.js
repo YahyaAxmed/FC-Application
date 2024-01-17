@@ -1,4 +1,3 @@
-// JavaScript code to change background color when the button is clicked
 const button = document.getElementById('changeColorBtn');
 const body = document.body;
 

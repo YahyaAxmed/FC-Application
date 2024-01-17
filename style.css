@@ -29,11 +29,16 @@ h2 {
     text-align: center;
     margin-top: 50px;
 }
-
 button {
+    position: absolute;
+    left: 10px;
     padding: 10px;
-    background-color: #007bff;
+    background-color: #333;
     color: #fff;
     border: none;
     cursor: pointer;
+    border-radius: 20px;
+}
+button:hover{
+    text-decoration: underline;
 }
